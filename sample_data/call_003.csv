@@ -1,0 +1,6 @@
+speaker,timestamp,content
+customer,00:00:05,你們這個多少錢
+agent,00:00:10,這個產品原價1200現在特價只要899
+customer,00:00:20,有興趣但我再考慮一下
+agent,00:00:25,好的有需要再聯絡我們
+customer,00:00:35,好謝謝

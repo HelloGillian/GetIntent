@@ -1,0 +1,6 @@
+speaker,timestamp,content
+customer,00:00:10,喂你好
+agent,00:00:12,您好歡迎來電
+customer,00:00:25,我不會操作系統可以幫我轉接專人服務嗎
+agent,00:00:30,好的請稍等為您轉接
+customer,00:00:45,謝謝麻煩了

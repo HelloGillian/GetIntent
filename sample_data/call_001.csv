@@ -1,0 +1,6 @@
+speaker,timestamp,content
+customer,00:00:15,你好我想問一下這個產品
+agent,00:00:20,您好請問有什麼可以幫您的
+customer,00:00:35,我要下訂單買三組
+agent,00:00:40,好的沒問題請問要寄到哪裡
+customer,00:00:55,寄到台北市信義區

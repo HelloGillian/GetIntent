@@ -1,0 +1,6 @@
+# GetIntent - No external dependencies required
+# Uses Python 3.6+ standard library only
+#
+# Optional dependencies for enhanced functionality:
+# pandas>=1.0.0  # For advanced data manipulation
+# openpyxl>=3.0.0  # For Excel output support
